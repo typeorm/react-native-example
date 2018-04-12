@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "declaration": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "lib": [
+      "dom",
+      "es2015"
+    ],
+    "target": "es5",
+    "module": "es2015",
+    "jsx": "react",
+    "sourceMap": true, 
+    "outDir": "./build",
+    "moduleResolution": "node",
+    "skipLibCheck": true
+  },
+  "include": [
+    "./src"
+  ]
+}
