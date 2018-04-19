@@ -12,7 +12,7 @@
     "react-native": "0.54.3",
     "react-native-sqlite-storage": "^3.3.4",
     "reflect-metadata": "^0.1.12",
-    "typeorm": "^0.2.0-alpha.44"
+    "typeorm": "^0.2.0"
   },
   "devDependencies": {
     "@types/jest": "^22.2.2",
