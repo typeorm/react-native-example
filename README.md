@@ -1,4 +1,4 @@
-# Using TypeORM with React Nactive
+# Using TypeORM with React Native
 Starting with 0.2.0-alpha.44 TypeORM supports React Native with the [`react-native-sqlite-storage`](https://github.com/andpor/react-native-sqlite-storage) plugin.
 This example shows how you can use TypeORM in your app.
 Use `react-native run-android` to run this example on your device.
